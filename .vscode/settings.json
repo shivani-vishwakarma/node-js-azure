@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/180fb610-ef6b-47b4-a1af-cfadafb0983e/resourceGroups/BiolabTestEnvironment/providers/Microsoft.Web/sites/Demo-node-web-app",
+    "appService.deploySubpath": "."
+}
